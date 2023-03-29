@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Taiwan Players</title>
+</head>
+<body>
+  <style>
+    body {background-color:rgb(104,143,182); }
+     h1{font-family:sans-serif;color:rgb(45,59,106);} 
+ img{vertical-align: middle;
+    }   
+
+  </style>
+  <h1><center>Taiwan Players</center></h1>
+<p><img src ="https://www.bastisoft.de/misc/flags/national/Flag_of_Taiwan.png" alt="taiwan flag" class="left"id="Taiwan"><strong>Taiwan</strong></p>
